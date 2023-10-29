@@ -1,0 +1,3 @@
+Stream di Node.js
+
+Dalam Node.js, "stream" adalah konsep yang digunakan untuk menghandle aliran data secara efisien, baik dalam proses pembacaan (readable stream) maupun penulisan (writable stream). Ini memungkinkan Anda untuk memproses data dalam potongan-potongan kecil, yang sangat berguna ketika Anda berurusan dengan data berukuran besar atau sumber data yang masuk secara berkelanjutan seperti file, jaringan, atau protokol. Dengan menggunakan stream, Anda dapat menghindari mengunggah seluruh data ke dalam memori, yang membuat aplikasi Anda lebih efisien dan responsif. Anda dapat menghubungkan dan memanipulasi stream dengan mudah menggunakan berbagai modul bawaan Node.js seperti fs, http, dan net, serta pustaka-pustaka pihak ketiga.

@@ -1,0 +1,53 @@
+Stream di Node.
+js
+
+Dalam Nod
+e.js, "stream" 
+adalah konsep y
+ang digunakan u
+ntuk menghandle
+ aliran data se
+cara efisien, b
+aik dalam prose
+s pembacaan (re
+adable stream) 
+maupun penulisa
+n (writable str
+eam). Ini memun
+gkinkan Anda un
+tuk memproses d
+ata dalam poton
+gan-potongan ke
+cil, yang sanga
+t berguna ketik
+a Anda berurusa
+n dengan data b
+erukuran besar 
+atau sumber dat
+a yang masuk se
+cara berkelanju
+tan seperti fil
+e, jaringan, at
+au protokol. De
+ngan menggunaka
+n stream, Anda 
+dapat menghinda
+ri mengunggah s
+eluruh data ke 
+dalam memori, y
+ang membuat apl
+ikasi Anda lebi
+h efisien dan r
+esponsif. Anda 
+dapat menghubun
+gkan dan memani
+pulasi stream d
+engan mudah men
+ggunakan berbag
+ai modul bawaan
+ Node.js sepert
+i fs, http, dan
+ net, serta pus
+taka-pustaka pi
+hak ketiga.
+null
